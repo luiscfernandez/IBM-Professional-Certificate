@@ -1,3 +1,3 @@
 # IBM-Professional-Certificate
 
-Contains coursework completed for Certificate
+Contains all of my completed assignments for the certificate.
